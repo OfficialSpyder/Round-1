@@ -1,0 +1,62 @@
+[
+    {
+        "hcp_name": "Dr. Rajesh",
+        "interaction_type": "Meeting",
+        "date": null,
+        "attendees": null,
+        "topics": "Mamba Herbals",
+        "sentiment": "Positive",
+        "outcomes": "Interested in bulk orders",
+        "follow_up": null
+    },
+    {
+        "hcp_name": "Dr. Sharma",
+        "interaction_type": "Meeting",
+        "date": null,
+        "attendees": null,
+        "topics": "Herbal Powders",
+        "sentiment": "Positive",
+        "outcomes": "Impressed",
+        "follow_up": null
+    },
+    {
+        "hcp_name": "Dr. Sharma",
+        "interaction_type": "Meeting",
+        "date": null,
+        "attendees": null,
+        "topics": "Herbal Powders",
+        "sentiment": "Positive",
+        "outcomes": "Impressed",
+        "follow_up": null
+    },
+    {
+        "hcp_name": "Dr.Kumar",
+        "interaction_type": "Meeting",
+        "date": null,
+        "attendees": null,
+        "topics": "Heartbeat problem",
+        "sentiment": "Neutral",
+        "outcomes": "Meet Dr.Kumar",
+        "follow_up": null
+    },
+    {
+        "hcp_name": "Dr. Kumar",
+        "interaction_type": "Meeting",
+        "date": null,
+        "attendees": null,
+        "topics": "Heartbeat problem",
+        "sentiment": "Negative",
+        "outcomes": "Meet Dr. Kumar",
+        "follow_up": null
+    },
+    {
+        "hcp_name": "Dr.Kumar",
+        "interaction_type": "Meeting Request",
+        "date": null,
+        "attendees": null,
+        "topics": "Heart Pain",
+        "sentiment": "Negative",
+        "outcomes": "Schedule a meeting",
+        "follow_up": true
+    }
+]
